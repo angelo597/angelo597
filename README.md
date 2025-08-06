@@ -15,9 +15,6 @@
 
 <div align="center">
 </div>
-<p>
-With over 10 years of experience as a Front-End Developer, I specialize in creating dynamic, responsive, and highly engaging user interfaces for industries like SaaS, healthcare, insurance, and education, using React, Next.js, Vue.js, TailwindCSS, and TypeScript. My expertise extends beyond front-end development to include Node.js and Express for seamless back-end integration, ensuring a smooth and efficient user experience across both sides of the stack. I’m deeply committed to performance optimization, leveraging the latest techniques to deliver lightning-fast load times, smooth interactions, and fully responsive design across all devices. Collaboration is key to my approach, and I thrive in cross-functional teams, working alongside designers, developers, and stakeholders to turn ideas into impactful, scalable solutions. I prioritize writing clean, maintainable code and use TailwindCSS to create consistent, efficient, and beautiful designs. With a keen eye for both front-end and back-end performance, I integrate automated testing and continuous optimization to ensure the reliability and scalability of every project. Always staying ahead of the curve, I’m eager to bring my expertise in React, Next.js, Vue.js, TypeScript, and back-end development to build innovative, future-proof web applications that drive business growth and user satisfaction.
-</p>
 
 <h3 align="center">
  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 

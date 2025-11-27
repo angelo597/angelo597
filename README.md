@@ -1,6 +1,5 @@
 <h1 align="center"><img align="center" width="43" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />Senior Blockchain Developer</h1>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=angelo597)
 ![Follow me on GitHub!](https://img.shields.io/github/followers/angelo597?)
 
 ## About

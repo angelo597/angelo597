@@ -4,7 +4,7 @@
 ![Follow me on GitHub!](https://img.shields.io/github/followers/angelo597?)
 
 ## About
-Sr. Engineer | Researcher | Web3 Specialist | Crypto Enthusiast
+Senior Full Stack Developer | Researcher | Web3 Specialist | Crypto Enthusiast
 
 &emsp;...
 

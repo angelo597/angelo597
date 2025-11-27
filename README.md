@@ -10,7 +10,7 @@ Senior Full Stack Developer | Researcher | Web3 Specialist | Crypto Enthusiast
 
 --- 
 
-<img align="center" alt="Intel's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelo597&theme=dark&hide_progress=true&hide_border=true" />
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=angelo597&show_icons=true&hide_border=true&theme=dark&rank_icon=github&show_icons=true" />
+<img align="center" alt="Angelo's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelo597&theme=dark&hide_progress=true&hide_border=true" />
+<img align="center" alt="Angelo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=angelo597&show_icons=true&hide_border=true&theme=dark&rank_icon=github&show_icons=true" />
 
 ---
